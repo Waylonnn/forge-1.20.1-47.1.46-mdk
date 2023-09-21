@@ -17,7 +17,7 @@ import org.slf4j.Logger;
 @Mod(AmethystSword.MOD_ID)
 public class AmethystSword {
     // Define mod id in a common place for everything to reference
-    public static final String MOD_ID = "amethystSword";
+    public static final String MOD_ID = "amethystsword";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
